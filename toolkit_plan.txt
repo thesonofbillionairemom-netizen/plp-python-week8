@@ -1,0 +1,72 @@
+PERSONAL MINI-TOOLKIT
+Week 8 Final Project – Future Proof with Python
+
+PROJECT OVERVIEW
+
+The Personal Mini-Toolkit is a menu-driven Python application that provides three useful productivity and entertainment tools. The program allows users to select different tools from a menu and return to the main menu after completing each operation.
+
+1. SELECTED TOOLS
+
+TOOL 1: SMART CALCULATOR
+Description: Performs basic mathematical operations, including addition, subtraction, multiplication and division.
+
+Concepts: Variables, user input, arithmetic operators, conditionals and f-strings.
+
+TOOL 2: PERSONAL TO-DO MANAGER
+Description: Allows users to add new tasks, view existing tasks and remove completed tasks using a dynamic Python list.
+
+Concepts: Lists, loops, conditionals, user input and f-strings.
+
+TOOL 3: NUMBER GUESSING CHALLENGE
+Description: Generates a random secret number and allows the user to guess it, providing hints until the correct number is found.
+
+Concepts: Loops, conditionals, variables, user input, random numbers and f-strings.
+
+2. MAIN MENU DESIGN
+
+========================================
+       PERSONAL MINI-TOOLKIT
+========================================
+
+Welcome! Your productivity toolkit is ready.
+
+Please select a tool:
+
+1. Smart Calculator
+2. Personal To-Do Manager
+3. Number Guessing Challenge
+4. Quit
+
+Enter your choice (1-4):
+
+3. PROGRAM NAVIGATION
+
+The program will use a while loop to keep the main menu running until the user selects Quit.
+
+An if/elif/else structure will determine which tool to execute.
+
+Invalid selections will display a friendly error message without terminating the program.
+
+4. EXPECTED PROGRAMMING CONCEPTS
+
+- Variables and data types
+- Input and output
+- Arithmetic operators
+- Conditional statements (if, elif, else)
+- While and for loops
+- Python lists and list methods
+- Random number generation
+- F-strings
+- Comments and code organization
+- Input validation
+
+5. EXPECTED OUTCOME
+
+The final application will be easy to use, interactive, properly commented and capable of running continuously until the user chooses to exit.
+
+PROJECT FILES
+
+1. toolkit_plan.txt
+2. toolkit.py
+3. README.md
+4. screenshots/
